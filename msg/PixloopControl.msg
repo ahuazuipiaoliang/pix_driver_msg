@@ -1,0 +1,13 @@
+bool right_light
+bool left_light
+bool self_driving_enable
+bool epb 
+int8 gear_shift
+int32 braking
+int32 speed
+int32 steering
+int8 mode_selection
+bool front_light
+bool state_control
+bool advanced_mode
+bool speed_mode

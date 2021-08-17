@@ -1,0 +1,12 @@
+bool emergency_stop_feedback
+bool vehicle_mode_feedback
+bool vehicle_status_feedback
+bool braking_light_feedback
+bool tail_light_feedback
+bool r_steer_light_feedback
+bool l_steer_light_feedback
+int8 mode_feedback
+int8 gear_feedback
+int32 braking_feedback
+int32 f_steer_feedback
+int32 speed_feedback
